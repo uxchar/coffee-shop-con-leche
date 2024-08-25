@@ -1,29 +1,40 @@
-# coffee-shop-con-leche-vue
+# ☕ Con Leche Coffee House - Frontend Practice Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to the **Con Leche Coffee House** project! This is a fictional website created to practice and enhance frontend development skills using modern web technologies. The project features a responsive and visually appealing design for a coffee shop, complete with a hero section, informative content about coffee and sustainability, and an interactive order form. The design is inspired by modern coffee culture, with an emphasis on clean design, ease of navigation, and interactive elements.
 
-## Recommended IDE Setup
+### Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- **Hero Section**: A full-screen hero section with a background video, overlay, and introductory text.
+- **Responsive Navigation Bar**: A custom navigation bar that adapts to different screen sizes, featuring a hamburger menu for mobile devices.
+- **Informative Sections**: Detailed information about coffee sourcing, milk sourcing, and sustainability practices.
+- **Order Form**: An interactive form where users can customize their drink orders, including options for drink type, milk, and additional shots.
+- **Footer**: A simple footer with the coffee shop's branding.
 
-## Customize configuration
+## Technologies Used
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- **Vue.js**
+- **HTML5 & CSS3**
+- **JavaScript (ES6+)**:
+- **Responsive Design**
 
-## Project Setup
+- ## Learning Objectives
 
-```sh
-npm install
-```
+This project was developed with the following learning goals in mind:
 
-### Compile and Hot-Reload for Development
+- Improve understanding and usage of Vue.js for building component-based UIs.
+- Practice creating responsive web designs using HTML5 and CSS3.
+- Gain experience with project structuring and component modularization in Vue.js.
+- Enhance frontend development skills through practical application.
 
-```sh
-npm run dev
-```
+---
 
-### Compile and Minify for Production
+### Features I Would Like to Add Later
 
-```sh
-npm run build
-```
+-More views to really make it feel like a complete web application such as Story section, better
+Order view, etc.
+
+---
+
+### Conclusion
+
+This project was a fun and educational way to apply and refine frontend development skills using Vue.js.
