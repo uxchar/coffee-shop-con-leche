@@ -62,10 +62,6 @@ Order view, etc.
    npm run dev
    ```
 
-4. Open the application in your browser:
-
-   ```bash
-   http://localhost:3000
-   ```
+4. Open the application in your browser
 
 ---
