@@ -254,7 +254,6 @@ input[type="checkbox"]:checked {
 }
 
 .name-label {
-  margin-bottom: -10px;
 }
 
 .cust-choice-section {
