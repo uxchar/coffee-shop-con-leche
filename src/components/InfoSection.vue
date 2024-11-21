@@ -13,7 +13,7 @@
           webkit-playsinline
         >
           <source
-            src="/src/assets/videos/2675509-hd_1920_1080_24fps.mp4"
+            src="/videos/2675509-hd_1920_1080_24fps.mp4"
             type="video/mp4"
           />
         </video>
@@ -70,7 +70,7 @@
           webkit-playsinline
         >
           <source
-            src="/src/assets/videos/4928679-uhd_4096_2160_25fps.mp4"
+            src="/videos/4928679-uhd_4096_2160_25fps.mp4"
             type="video/mp4"
           />
         </video>

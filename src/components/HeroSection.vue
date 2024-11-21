@@ -13,10 +13,7 @@ import NavBar from "./NavBar.vue";
       playsinline
       webkit-playsinline
     >
-      <source
-        src="/src/assets/videos/6769796-uhd_3840_2160_24fps.mp4"
-        type="video/mp4"
-      />
+      <source src="/videos/6769796-uhd_3840_2160_24fps.mp4" type="video/mp4" />
     </video>
     <p class="hero-info">
       The finest beans imported from Colombia & Guatemala.
