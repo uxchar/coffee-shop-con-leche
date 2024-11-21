@@ -1,6 +1,6 @@
 # ☕ Con Leche Coffee House - Frontend Practice Project
 
-Deployed here: https://coffee-shop-con-leche-git-main-uxchars-projects.vercel.app/
+Deployed here: [coffee-shop-con-leche-vue.vercel.app](https://coffee-shop-con-leche-git-main-uxchars-projects.vercel.app/)
 
 ![Con Leche Screenshot](./docs/images/con-leche-screenshot.png)
 Welcome to the **Con Leche Coffee House** project! This is a fictional website created to practice and enhance frontend development skills using modern web technologies. The project features a responsive and visually appealing design for a coffee shop, complete with a hero section, informative content about coffee and sustainability, and an interactive order form. The design is inspired by modern coffee culture, with an emphasis on clean design, ease of navigation, and interactive elements.
